@@ -6570,11 +6570,23 @@
     "parents": [
       "26.3-snapshot-9"
     ],
-    "children": [],
+    "children": [
+      "26.3-pre-1"
+    ],
     "type": "snapshot",
     "branch": "mainline",
     "data_version": 5015,
     "protocol_version": 1073742156
+  },
+  "26.3-pre-1": {
+    "parents": [
+      "26.3-snapshot-10"
+    ],
+    "children": [],
+    "type": "snapshot",
+    "branch": "mainline",
+    "data_version": 5017,
+    "protocol_version": 1073742157
   },
   "25w14craftmine": {
     "parents": [
