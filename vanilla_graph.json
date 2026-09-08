@@ -6594,11 +6594,23 @@
     "parents": [
       "26.3-pre-1"
     ],
-    "children": [],
+    "children": [
+      "26.3-pre-3",
+    ],
     "type": "snapshot",
     "branch": "mainline",
     "data_version": 5018,
     "protocol_version": 1073742158
+  },
+  "26.3-pre-3": {
+    "parents": [
+      "26.3-pre-2"
+    ],
+    "children": [],
+    "type": "snapshot",
+    "branch": "mainline",
+    "data_version": 5019,
+    "protocol_version": 1073742159
   },
   "25w14craftmine": {
     "parents": [
