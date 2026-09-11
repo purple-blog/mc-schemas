@@ -6618,11 +6618,23 @@
     "parents": [
       "26.3-pre-3"
     ],
-    "children": [],
+    "children": [
+      "26.3-rc-2"
+    ],
     "type": "snapshot",
     "branch": "mainline",
     "data_version": 5020,
     "protocol_version": 1073742160
+  },
+  "26.3-rc-2": {
+    "parents": [
+      "26.3-rc-1"
+    ],
+    "children": [],
+    "type": "snapshot",
+    "branch": "mainline",
+    "data_version": 5021,
+    "protocol_version": 1073742161
   },
   "25w14craftmine": {
     "parents": [
