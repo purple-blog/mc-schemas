@@ -6642,11 +6642,23 @@
     "parents": [
       "26.3-rc-2"
     ],
-    "children": [],
+    "children": [
+      "26.3"
+    ],
     "type": "snapshot",
     "branch": "mainline",
     "data_version": 5022,
     "protocol_version": 1073742162
+  },
+  "26.3": {
+    "parents": [
+      "26.3-rc-3"
+    ],
+    "children": [],
+    "type": "release",
+    "branch": "mainline",
+    "data_version": 5023,
+    "protocol_version": 777
   },
   "25w14craftmine": {
     "parents": [
