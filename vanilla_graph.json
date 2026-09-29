@@ -1884,7 +1884,7 @@
     ],
     "type": "snapshot",
     "branch": "mainline",
-    "data_versoin": 2525,
+    "data_version": 2525,
     "protocol_version": 711
   },
   "20w16a": {
@@ -2088,7 +2088,7 @@
     ],
     "type": "snapshot",
     "branch": "mainline",
-    "data_version": "2565",
+    "data_version": 2565,
     "protocol_version": 734
   },
   "1.16": {
@@ -6595,7 +6595,7 @@
       "26.3-pre-1"
     ],
     "children": [
-      "26.3-pre-3",
+      "26.3-pre-3"
     ],
     "type": "snapshot",
     "branch": "mainline",
@@ -6607,7 +6607,7 @@
       "26.3-pre-2"
     ],
     "children": [
-      "26.3-rc-1",
+      "26.3-rc-1"
     ],
     "type": "snapshot",
     "branch": "mainline",
