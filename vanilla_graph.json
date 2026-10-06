@@ -1296,11 +1296,11 @@
   },
   "1.14.3-pre4": {
     "parents": [
-      "1.14.3-pre3",
-      "1.14.3 - Combat Test"
+      "1.14.3-pre3"
     ],
     "children": [
-      "1.14.3"
+      "1.14.3",
+      "1.14.3 - Combat Test"
     ],
     "type": "snapshot",
     "branch": "mainline",
