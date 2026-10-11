@@ -1565,7 +1565,8 @@
           "note": "0",
           "powered": "true"
         },
-        "id": 172
+        "id": 172,
+        "default": true
       },
       {
         "properties": {
@@ -1573,8 +1574,7 @@
           "note": "0",
           "powered": "false"
         },
-        "id": 173,
-        "default": true
+        "id": 173
       },
       {
         "properties": {
@@ -56058,7 +56058,7 @@
       }
     ]
   },
-  "minecraft:acacia_fence_gate": {
+  "minecraft:dark_oak_fence_gate": {
     "properties": {
       "facing": [
         "north",
@@ -56371,7 +56371,7 @@
       }
     ]
   },
-  "minecraft:dark_oak_fence_gate": {
+  "minecraft:acacia_fence_gate": {
     "properties": {
       "facing": [
         "north",
@@ -57185,7 +57185,7 @@
       }
     ]
   },
-  "minecraft:acacia_fence": {
+  "minecraft:dark_oak_fence": {
     "properties": {
       "east": [
         "true",
@@ -57352,7 +57352,7 @@
       }
     ]
   },
-  "minecraft:dark_oak_fence": {
+  "minecraft:acacia_fence": {
     "properties": {
       "east": [
         "true",
