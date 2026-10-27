@@ -6714,11 +6714,23 @@
     "parents": [
       "26.4-snapshot-4"
     ],
-    "children": [],
+    "children": [
+      "26.4-snapshot-5"
+    ],
     "type": "snapshot",
     "branch": "mainline",
     "data_version": 5125,
     "protocol_version": 1073742167
+  },
+  "26.4-snapshot-6": {
+    "parents": [
+      "26.4-snapshot-5"
+    ],
+    "children": [],
+    "type": "snapshot",
+    "branch": "mainline",
+    "data_version": 5126,
+    "protocol_version": 1073742168
   },
   "25w14craftmine": {
     "parents": [
