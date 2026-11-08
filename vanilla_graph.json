@@ -2161,7 +2161,7 @@
     "type": "snapshot",
     "branch": "mainline",
     "data_version": 2572,
-    "protocol_version": 742
+    "protocol_version": 743
   },
   "1.16.2-pre1": {
     "parents": [
@@ -4160,7 +4160,7 @@
     ],
     "type": "snapshot",
     "branch": "mainline",
-    "data_version": 3573,
+    "data_version": 3574,
     "protocol_version": 1073741974
   },
   "1.20.2-pre4": {
@@ -5722,7 +5722,7 @@
     ],
     "type": "snapshot",
     "branch": "mainline",
-    "data_version": 4548,
+    "data_version": 4549,
     "protocol_version": 1073742093
   },
   "1.21.9-pre2": {
